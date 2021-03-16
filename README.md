@@ -15,3 +15,6 @@
 ### divide-and-conquer
 
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md "312.戳气球.md")
+
+### greedy
+- [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md "406.根据身高重建队列.md")
