@@ -22,4 +22,4 @@
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md "406.根据身高重建队列.md")
 
 ### tree
-- [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/greedy/437.路径总和III.md "437. 路径总和 III")
+- [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/tree/437.路径总和III.md "437. 路径总和 III")
