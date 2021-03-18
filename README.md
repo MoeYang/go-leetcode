@@ -6,6 +6,7 @@
 ------------
 ### array
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md "560.和为K的子数组")
+- [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md "581.最短无序连续子数组")
 
 ### dfs
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md "301. 删除无效的括号")
