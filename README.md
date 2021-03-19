@@ -23,6 +23,7 @@
 
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md "406.根据身高重建队列.md")
+- [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md "621.任务调度器.md")
 
 ### slide_window
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md "438.找到字符串中所有字母异位词.md")
