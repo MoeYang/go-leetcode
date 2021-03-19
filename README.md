@@ -16,6 +16,7 @@
 - [309.最佳买卖股票时机含冷冻期](https://github.com/MoeYang/go-leetcode/blob/main/dp/309.最佳买卖股票时机含冷冻期.md "309. 最佳买卖股票时机含冷冻期")
 - [337.打家劫舍 III](https://github.com/MoeYang/go-leetcode/blob/main/dp/337.打家劫舍III.md "337.打家劫舍 III.md")
 - [416.分割等和子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/416.分割等和子集.md "416.分割等和子集.md")
+- [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md "647.回文子串.md")
 
 ### divide-and-conquer
 
