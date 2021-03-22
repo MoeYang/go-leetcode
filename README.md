@@ -6,6 +6,7 @@
 ------------
 ### array
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/array/39.组合总和.md)
+- [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
 
