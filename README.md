@@ -26,12 +26,14 @@
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 
 ### divide-and-conquer
-
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
 
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+
+### list
+- [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 
 ### slide_window
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
