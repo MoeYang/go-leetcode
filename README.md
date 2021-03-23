@@ -34,6 +34,7 @@
 
 ### list
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
+- [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 
 ### slide_window
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
