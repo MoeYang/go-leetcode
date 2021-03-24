@@ -12,6 +12,7 @@
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
+- [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
 
 ### dfs
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
