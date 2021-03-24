@@ -42,6 +42,7 @@
 
 ### stack
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
+- [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
 
 ### tree
