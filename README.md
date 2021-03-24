@@ -51,3 +51,4 @@
 - [538.把二叉搜索树转换为累加树](https://github.com/MoeYang/go-leetcode/blob/main/tree/538.把二叉搜索树转换为累加树.md)
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
 - [面试题04.05.合法二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.05.合法二叉搜索树.md)
+- [面试题04.06.后继者](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.06.后继者.md)
