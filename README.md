@@ -25,6 +25,7 @@
 - [354.俄罗斯套娃信封问题](https://github.com/MoeYang/go-leetcode/blob/main/dp/354.俄罗斯套娃信封问题.md)
 - [416.分割等和子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/416.分割等和子集.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
+- [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 
 ### divide-and-conquer
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
