@@ -16,6 +16,7 @@
 
 ### dfs
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
+- [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
 
 ### dp
 - [72.编辑距离](https://github.com/MoeYang/go-leetcode/blob/main/dp/72.编辑距离.md)
