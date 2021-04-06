@@ -32,6 +32,7 @@
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
+- [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
 
 ### divide-and-conquer
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
