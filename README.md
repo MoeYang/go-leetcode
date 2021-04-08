@@ -9,6 +9,7 @@
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/array/39.组合总和.md)
 - [80.删除有序数组中的重复项II](https://github.com/MoeYang/go-leetcode/blob/main/array/80.删除有序数组中的重复项II.md)
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
+- [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/array/153.寻找旋转排序数组中的最小值.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
 
