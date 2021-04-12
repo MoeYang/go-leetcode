@@ -13,6 +13,7 @@
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
+- [面试题16.10.生存人数](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.10.生存人数.md)
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
