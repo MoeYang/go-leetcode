@@ -11,6 +11,7 @@
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
+- [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
@@ -52,6 +53,10 @@
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 - [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
+
+### math
+- [面试题16.05.阶乘尾数](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.05.阶乘尾数.md)
+
 
 ### slide_window
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
