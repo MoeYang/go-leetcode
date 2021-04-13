@@ -16,6 +16,7 @@
 - [面试题16.10.生存人数](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.10.生存人数.md)
 - [面试题16.11.跳水板](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.11.跳水板.md)
 - [面试题16.16.部分排序](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.16.部分排序.md)
+- [面试题16.17.连续数列](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.17.连续数列.md)
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
