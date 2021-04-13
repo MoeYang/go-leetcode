@@ -15,6 +15,7 @@
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
 - [面试题16.10.生存人数](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.10.生存人数.md)
 - [面试题16.11.跳水板](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.11.跳水板.md)
+- [面试题16.16.部分排序](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.16.部分排序.md)
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
