@@ -29,6 +29,9 @@
 - [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/binary/153.寻找旋转排序数组中的最小值.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
+### design
+- [面试题16.25.LRU缓存](https://github.com/MoeYang/go-leetcode/blob/main/design/面试题16.25.LRU缓存.md)
+
 ### dfs
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
