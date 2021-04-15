@@ -77,6 +77,7 @@
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
+- [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
 - [面试题17.21.直方图的水量](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题17.21.直方图的水量.md)
 
 ### tree
