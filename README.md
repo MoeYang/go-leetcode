@@ -68,6 +68,7 @@
 ### math
 - [面试题16.05.阶乘尾数](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.05.阶乘尾数.md)
 - [面试题16.14.最佳直线](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.14.最佳直线.md)
+- [面试题17.01.不用加号的加法](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题17.01.不用加号的加法.md)
 
 
 ### slide_window
