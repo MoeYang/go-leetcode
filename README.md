@@ -53,6 +53,7 @@
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
 - [面试题08.14.布尔运算](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.14.布尔运算.md)
+- [面试题17.08.马戏团人塔](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.08.马戏团人塔.md)
 
 ### divide-and-conquer
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
