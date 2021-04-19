@@ -21,6 +21,7 @@
 - [面试题16.24.数对和](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.24.数对和.md)
 - [面试题17.05.字母与数字](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题17.05.字母与数字.md)
 - [面试题17.10.主要元素](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题17.10.主要元素.md)
+- [面试题17.11.单词距离](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题17.11.单词距离.md)
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
