@@ -88,6 +88,9 @@
 - [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
 - [面试题17.21.直方图的水量](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题17.21.直方图的水量.md)
 
+### string
+- [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
+
 ### tree
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
 - [208.实现Trie(前缀树)](https://github.com/MoeYang/go-leetcode/blob/main/tree/208.实现Trie(前缀树).md)
