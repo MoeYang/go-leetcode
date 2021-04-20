@@ -59,6 +59,7 @@
 - [面试题17.08.马戏团人塔](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.08.马戏团人塔.md)
 - [面试题17.09.第k个数](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.09.第k个数.md)
 - [面试题17.13.恢复空格](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.13.恢复空格.md)
+- [面试题17.16.按摩师](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.16.按摩师.md)
 
 ### divide-and-conquer
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
