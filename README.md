@@ -83,6 +83,7 @@
 
 ### slide_window
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
+- [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 
 ### stack
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
