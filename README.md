@@ -107,6 +107,9 @@
 - [面试题10.10.数字流的秩](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题10.10.数字流的秩.md)
 - [面试题17.12.BiNode](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题17.12.BiNode.md)
 
+### trie
+- [面试题17.17.多次搜索](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题17.17.多次搜索.md)
+
 ### union_find
 - [面试题16.19.水域大小](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题16.19.水域大小.md)
 - [面试题17.07.婴儿名字](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题17.07.婴儿名字.md)
