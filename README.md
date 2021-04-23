@@ -64,6 +64,7 @@
 - [面试题17.13.恢复空格](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.13.恢复空格.md)
 - [面试题17.16.按摩师](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.16.按摩师.md)
 - [面试题17.23.最大黑方阵](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.23.最大黑方阵.md)
+- [面试题17.24.最大子矩阵](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题17.24.最大子矩阵.md)
 
 ### divide-and-conquer
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
