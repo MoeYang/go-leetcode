@@ -117,6 +117,7 @@
 
 ### trie
 - [面试题17.17.多次搜索](https://github.com/MoeYang/go-leetcode/blob/main/trie/面试题17.17.多次搜索.md)
+- [面试题17.25.单词矩阵](https://github.com/MoeYang/go-leetcode/blob/main/trie/面试题17.25.单词矩阵.md)
 
 ### union_find
 - [面试题16.19.水域大小](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题16.19.水域大小.md)
