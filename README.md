@@ -30,6 +30,7 @@
 ### binary
 - [33.搜索旋转排序数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/33.搜索旋转排序数组.md)
 - [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/binary/153.寻找旋转排序数组中的最小值.md)
+- [1011.在D天内送达包裹的能力](https://github.com/MoeYang/go-leetcode/blob/main/binary/1011.在D天内送达包裹的能力.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
