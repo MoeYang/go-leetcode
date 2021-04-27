@@ -106,6 +106,7 @@
 
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
+- [1839.所有元音按顺序排布的最长子字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/1839.所有元音按顺序排布的最长子字符串.md)
 
 ### tree
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
