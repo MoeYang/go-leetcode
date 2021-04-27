@@ -73,6 +73,7 @@
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
 
 ### hash
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
