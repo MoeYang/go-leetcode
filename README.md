@@ -10,6 +10,7 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
@@ -80,6 +81,7 @@
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
 
 ### heap
+- [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
 ### list
