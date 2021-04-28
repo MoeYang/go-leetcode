@@ -73,6 +73,7 @@
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [1833.雪糕的最大数量](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1833.雪糕的最大数量.md)
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
 
 ### hash
