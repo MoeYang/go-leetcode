@@ -10,6 +10,7 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
@@ -32,6 +33,7 @@
 - [33.搜索旋转排序数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/33.搜索旋转排序数组.md)
 - [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/binary/153.寻找旋转排序数组中的最小值.md)
 - [1011.在D天内送达包裹的能力](https://github.com/MoeYang/go-leetcode/blob/main/binary/1011.在D天内送达包裹的能力.md)
+- [1818.绝对差值和](https://github.com/MoeYang/go-leetcode/blob/main/binary/1818.绝对差值和.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
@@ -40,6 +42,7 @@
 ### dfs
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
+- [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
 - [面试题08.08.有重复字符串的排列组合](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.08.有重复字符串的排列组合.md)
 - [面试题08.09.括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.09.括号.md)
@@ -79,10 +82,12 @@
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
 
 ### hash
+- [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
 
 ### heap
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
+- [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
 ### list
