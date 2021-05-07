@@ -5,6 +5,7 @@
 
 ------------
 ### array
+- [31.下一个排列](https://github.com/MoeYang/go-leetcode/blob/main/array/31.下一个排列.md)
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/array/39.组合总和.md)
 - [80.删除有序数组中的重复项II](https://github.com/MoeYang/go-leetcode/blob/main/array/80.删除有序数组中的重复项II.md)
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
@@ -117,6 +118,8 @@
 
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
+- [844.比较含退格的字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/844.比较含退格的字符串.md)
+- [1813.句子相似性III](https://github.com/MoeYang/go-leetcode/blob/main/string/1813.句子相似性III.md)
 - [1839.所有元音按顺序排布的最长子字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/1839.所有元音按顺序排布的最长子字符串.md)
 
 ### tree
