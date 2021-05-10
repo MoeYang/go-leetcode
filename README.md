@@ -43,6 +43,7 @@
 ### dfs
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
+- [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
 - [面试题08.08.有重复字符串的排列组合](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.08.有重复字符串的排列组合.md)
@@ -81,6 +82,7 @@
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
 - [1833.雪糕的最大数量](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1833.雪糕的最大数量.md)
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
+- [1855.下标对中的最大距离](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1855.下标对中的最大距离.md)
 
 ### hash
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
