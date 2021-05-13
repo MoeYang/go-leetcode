@@ -63,6 +63,7 @@
 - [403.青蛙过河](https://github.com/MoeYang/go-leetcode/blob/main/dp/403.青蛙过河.md)
 - [416.分割等和子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/416.分割等和子集.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
+- [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -115,6 +116,7 @@
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
+- [1856.子数组最小乘积的最大值](https://github.com/MoeYang/go-leetcode/blob/main/stack/1856.子数组最小乘积的最大值.md)
 - [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
 - [面试题17.21.直方图的水量](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题17.21.直方图的水量.md)
 
