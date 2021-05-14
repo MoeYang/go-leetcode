@@ -64,6 +64,7 @@
 - [416.分割等和子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/416.分割等和子集.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
+- [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -90,6 +91,7 @@
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
 
 ### heap
+- [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
@@ -123,6 +125,8 @@
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
 - [844.比较含退格的字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/844.比较含退格的字符串.md)
+- [1805.字符串中不同整数的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1805.字符串中不同整数的数目.md)
+- [1807.替换字符串中的括号内容](https://github.com/MoeYang/go-leetcode/blob/main/string/1807.替换字符串中的括号内容.md)
 - [1813.句子相似性III](https://github.com/MoeYang/go-leetcode/blob/main/string/1813.句子相似性III.md)
 - [1839.所有元音按顺序排布的最长子字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/1839.所有元音按顺序排布的最长子字符串.md)
 
