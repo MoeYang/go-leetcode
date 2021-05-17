@@ -38,6 +38,7 @@
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
+- [1865.找出和为指定值的下标对](https://github.com/MoeYang/go-leetcode/blob/main/design/1865.找出和为指定值的下标对.md)
 - [面试题16.25.LRU缓存](https://github.com/MoeYang/go-leetcode/blob/main/design/面试题16.25.LRU缓存.md)
 
 ### dfs
@@ -65,6 +66,7 @@
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
 - [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
+- [1866.恰有K根木棍可以看到的排列数目](https://github.com/MoeYang/go-leetcode/blob/main/dp/1866.恰有K根木棍可以看到的排列数目.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -85,6 +87,7 @@
 - [1833.雪糕的最大数量](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1833.雪糕的最大数量.md)
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
 - [1855.下标对中的最大距离](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1855.下标对中的最大距离.md)
+- [5760.构成交替字符串需要的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/5760.构成交替字符串需要的最小交换次数.md)
 
 ### hash
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
@@ -103,6 +106,7 @@
 
 ### math
 - [137.只出现一次的数字II](https://github.com/MoeYang/go-leetcode/blob/main/math/137.只出现一次的数字II.md)
+- [1862.向下取整数对和](https://github.com/MoeYang/go-leetcode/blob/main/math/1862.向下取整数对和.md)
 - [面试题16.05.阶乘尾数](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.05.阶乘尾数.md)
 - [面试题16.14.最佳直线](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.14.最佳直线.md)
 - [面试题17.01.不用加号的加法](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题17.01.不用加号的加法.md)
@@ -136,6 +140,7 @@
 - [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/tree/437.路径总和III.md)
 - [538.把二叉搜索树转换为累加树](https://github.com/MoeYang/go-leetcode/blob/main/tree/538.把二叉搜索树转换为累加树.md)
 - [783.二叉搜索树节点最小距离](https://github.com/MoeYang/go-leetcode/blob/main/tree/783.二叉搜索树节点最小距离.md)
+- [993.二叉树的堂兄弟节点](https://github.com/MoeYang/go-leetcode/blob/main/tree/993.二叉树的堂兄弟节点.md)
 - [面试题04.05.合法二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.05.合法二叉搜索树.md)
 - [面试题04.06.后继者](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.06.后继者.md)
 - [面试题04.08.首个共同祖先](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.08.首个共同祖先.md)
