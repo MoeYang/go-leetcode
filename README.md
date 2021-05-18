@@ -45,6 +45,7 @@
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
 - [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
+- [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
 - [面试题08.08.有重复字符串的排列组合](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.08.有重复字符串的排列组合.md)
@@ -106,6 +107,8 @@
 
 ### math
 - [137.只出现一次的数字II](https://github.com/MoeYang/go-leetcode/blob/main/math/137.只出现一次的数字II.md)
+- [1780.判断一个数字是否可以表示成三的幂的和](https://github.com/MoeYang/go-leetcode/blob/main/math/1780.判断一个数字是否可以表示成三的幂的和.md)
+- [1785.构成特定和需要添加的最少元素](https://github.com/MoeYang/go-leetcode/blob/main/math/1785.构成特定和需要添加的最少元素.md)
 - [1862.向下取整数对和](https://github.com/MoeYang/go-leetcode/blob/main/math/1862.向下取整数对和.md)
 - [面试题16.05.阶乘尾数](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.05.阶乘尾数.md)
 - [面试题16.14.最佳直线](https://github.com/MoeYang/go-leetcode/blob/main/math/面试题16.14.最佳直线.md)
@@ -122,6 +125,7 @@
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
+- [1793.好子数组的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/stack/1793.好子数组的最大分数.md)
 - [1856.子数组最小乘积的最大值](https://github.com/MoeYang/go-leetcode/blob/main/stack/1856.子数组最小乘积的最大值.md)
 - [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
 - [面试题17.21.直方图的水量](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题17.21.直方图的水量.md)
@@ -129,6 +133,7 @@
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
 - [844.比较含退格的字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/844.比较含退格的字符串.md)
+- [1790.仅执行一次字符串交换能否使两个字符串相等](https://github.com/MoeYang/go-leetcode/blob/main/string/1790.仅执行一次字符串交换能否使两个字符串相等.md)
 - [1805.字符串中不同整数的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1805.字符串中不同整数的数目.md)
 - [1807.替换字符串中的括号内容](https://github.com/MoeYang/go-leetcode/blob/main/string/1807.替换字符串中的括号内容.md)
 - [1813.句子相似性III](https://github.com/MoeYang/go-leetcode/blob/main/string/1813.句子相似性III.md)
