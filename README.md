@@ -11,6 +11,7 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [1738.找出第K大的异或坐标值](https://github.com/MoeYang/go-leetcode/blob/main/array/1738.找出第K大的异或坐标值.md)
 - [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
@@ -28,12 +29,14 @@
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
+- [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
 - [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
 
 ### binary
 - [33.搜索旋转排序数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/33.搜索旋转排序数组.md)
 - [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/binary/153.寻找旋转排序数组中的最小值.md)
 - [1011.在D天内送达包裹的能力](https://github.com/MoeYang/go-leetcode/blob/main/binary/1011.在D天内送达包裹的能力.md)
+- [1760.袋子里最少数目的球](https://github.com/MoeYang/go-leetcode/blob/main/binary/1760.袋子里最少数目的球.md)
 - [1818.绝对差值和](https://github.com/MoeYang/go-leetcode/blob/main/binary/1818.绝对差值和.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
@@ -64,8 +67,11 @@
 - [368.最大整除子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/368.最大整除子集.md)
 - [403.青蛙过河](https://github.com/MoeYang/go-leetcode/blob/main/dp/403.青蛙过河.md)
 - [416.分割等和子集](https://github.com/MoeYang/go-leetcode/blob/main/dp/416.分割等和子集.md)
+- [516.最长回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/516.最长回文子序列.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
+- [1770.执行乘法运算的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1770.执行乘法运算的最大分数.md)
+- [1771.由子序列构造的最长回文串的长度](https://github.com/MoeYang/go-leetcode/blob/main/dp/1771.由子序列构造的最长回文串的长度.md)
 - [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
 - [1866.恰有K根木棍可以看到的排列数目](https://github.com/MoeYang/go-leetcode/blob/main/dp/1866.恰有K根木棍可以看到的排列数目.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
@@ -133,6 +139,7 @@
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
 - [844.比较含退格的字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/844.比较含退格的字符串.md)
+- [1759.统计同构子字符串的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1759.统计同构子字符串的数目.md)
 - [1790.仅执行一次字符串交换能否使两个字符串相等](https://github.com/MoeYang/go-leetcode/blob/main/string/1790.仅执行一次字符串交换能否使两个字符串相等.md)
 - [1805.字符串中不同整数的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1805.字符串中不同整数的数目.md)
 - [1807.替换字符串中的括号内容](https://github.com/MoeYang/go-leetcode/blob/main/string/1807.替换字符串中的括号内容.md)
