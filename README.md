@@ -30,6 +30,7 @@
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
+- [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
 - [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
 
 ### binary
@@ -75,6 +76,7 @@
 - [1771.由子序列构造的最长回文串的长度](https://github.com/MoeYang/go-leetcode/blob/main/dp/1771.由子序列构造的最长回文串的长度.md)
 - [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
 - [1866.恰有K根木棍可以看到的排列数目](https://github.com/MoeYang/go-leetcode/blob/main/dp/1866.恰有K根木棍可以看到的排列数目.md)
+- [1872.石子游戏VIII](https://github.com/MoeYang/go-leetcode/blob/main/dp/1872.石子游戏VIII.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
