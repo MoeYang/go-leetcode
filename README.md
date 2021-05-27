@@ -72,6 +72,7 @@
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [1035.不相交的线](https://github.com/MoeYang/go-leetcode/blob/main/dp/1035.不相交的线.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
+- [1751.最多可以参加的会议数目II](https://github.com/MoeYang/go-leetcode/blob/main/dp/1751.最多可以参加的会议数目II.md)
 - [1770.执行乘法运算的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1770.执行乘法运算的最大分数.md)
 - [1771.由子序列构造的最长回文串的长度](https://github.com/MoeYang/go-leetcode/blob/main/dp/1771.由子序列构造的最长回文串的长度.md)
 - [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
@@ -94,6 +95,8 @@
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？.md)
+- [1749.任意子数组和的绝对值的最大值](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1749.任意子数组和的绝对值的最大值.md)
 - [1754.构造字典序最大的合并字符串](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1754.构造字典序最大的合并字符串.md)
 - [1833.雪糕的最大数量](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1833.雪糕的最大数量.md)
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
@@ -102,6 +105,7 @@
 
 ### hash
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
+- [1743.从相邻元素对还原数组](https://github.com/MoeYang/go-leetcode/blob/main/hash/1743.从相邻元素对还原数组.md)
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
 
 ### heap
