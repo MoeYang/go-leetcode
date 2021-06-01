@@ -11,6 +11,7 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [1726.同积元组](https://github.com/MoeYang/go-leetcode/blob/main/array/1726.同积元组.md)
 - [1738.找出第K大的异或坐标值](https://github.com/MoeYang/go-leetcode/blob/main/array/1738.找出第K大的异或坐标值.md)
 - [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
@@ -95,6 +96,7 @@
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [1727.重新排列后的最大子矩阵](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1727.重新排列后的最大子矩阵.md)
 - [1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？.md)
 - [1749.任意子数组和的绝对值的最大值](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1749.任意子数组和的绝对值的最大值.md)
 - [1754.构造字典序最大的合并字符串](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1754.构造字典序最大的合并字符串.md)
@@ -112,6 +114,7 @@
 - [1753.移除石子的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/heap/1753.移除石子的最大得分.md)
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
+- [1882.使用服务器处理任务](https://github.com/MoeYang/go-leetcode/blob/main/heap/1882.使用服务器处理任务.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
