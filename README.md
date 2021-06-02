@@ -49,6 +49,7 @@
 ### dfs
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
+- [1718.构建字典序最大的可行序列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1718.构建字典序最大的可行序列.md)
 - [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
 - [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
@@ -125,6 +126,7 @@
 
 ### math
 - [137.只出现一次的数字II](https://github.com/MoeYang/go-leetcode/blob/main/math/137.只出现一次的数字II.md)
+- [523.连续的子数组和](https://github.com/MoeYang/go-leetcode/blob/main/math/523.连续的子数组和.md)
 - [1780.判断一个数字是否可以表示成三的幂的和](https://github.com/MoeYang/go-leetcode/blob/main/math/1780.判断一个数字是否可以表示成三的幂的和.md)
 - [1785.构成特定和需要添加的最少元素](https://github.com/MoeYang/go-leetcode/blob/main/math/1785.构成特定和需要添加的最少元素.md)
 - [1862.向下取整数对和](https://github.com/MoeYang/go-leetcode/blob/main/math/1862.向下取整数对和.md)
@@ -143,6 +145,7 @@
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
+- [1717.删除子字符串的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/stack/1717.删除子字符串的最大得分.md)
 - [1793.好子数组的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/stack/1793.好子数组的最大分数.md)
 - [1856.子数组最小乘积的最大值](https://github.com/MoeYang/go-leetcode/blob/main/stack/1856.子数组最小乘积的最大值.md)
 - [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
@@ -177,5 +180,6 @@
 - [面试题17.25.单词矩阵](https://github.com/MoeYang/go-leetcode/blob/main/trie/面试题17.25.单词矩阵.md)
 
 ### union_find
+- [1722.执行交换操作后的最小汉明距离](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1722.执行交换操作后的最小汉明距离.md)
 - [面试题16.19.水域大小](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题16.19.水域大小.md)
 - [面试题17.07.婴儿名字](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题17.07.婴儿名字.md)
