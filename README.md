@@ -11,6 +11,8 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [1695.删除子数组的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/array/1695.删除子数组的最大得分.md)
+- [1711.大餐计数](https://github.com/MoeYang/go-leetcode/blob/main/array/1711.大餐计数.md)
 - [1726.同积元组](https://github.com/MoeYang/go-leetcode/blob/main/array/1726.同积元组.md)
 - [1738.找出第K大的异或坐标值](https://github.com/MoeYang/go-leetcode/blob/main/array/1738.找出第K大的异或坐标值.md)
 - [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
@@ -64,6 +66,7 @@
 - [91.解码方法](https://github.com/MoeYang/go-leetcode/blob/main/dp/91.解码方法.md)
 - [115.不同的子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/115.不同的子序列.md)
 - [213.打家劫舍II](https://github.com/MoeYang/go-leetcode/blob/main/dp/213.打家劫舍II.md)
+- [300.最长递增子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/300.最长递增子序列.md)
 - [309.最佳买卖股票时机含冷冻期](https://github.com/MoeYang/go-leetcode/blob/main/dp/309.最佳买卖股票时机含冷冻期.md)
 - [337.打家劫舍 III](https://github.com/MoeYang/go-leetcode/blob/main/dp/337.打家劫舍III.md)
 - [354.俄罗斯套娃信封问题](https://github.com/MoeYang/go-leetcode/blob/main/dp/354.俄罗斯套娃信封问题.md)
@@ -74,6 +77,7 @@
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [1035.不相交的线](https://github.com/MoeYang/go-leetcode/blob/main/dp/1035.不相交的线.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
+- [1696.跳跃游戏VI](https://github.com/MoeYang/go-leetcode/blob/main/dp/1696.跳跃游戏VI.md)
 - [1751.最多可以参加的会议数目II](https://github.com/MoeYang/go-leetcode/blob/main/dp/1751.最多可以参加的会议数目II.md)
 - [1770.执行乘法运算的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1770.执行乘法运算的最大分数.md)
 - [1771.由子序列构造的最长回文串的长度](https://github.com/MoeYang/go-leetcode/blob/main/dp/1771.由子序列构造的最长回文串的长度.md)
@@ -180,6 +184,7 @@
 - [面试题17.25.单词矩阵](https://github.com/MoeYang/go-leetcode/blob/main/trie/面试题17.25.单词矩阵.md)
 
 ### union_find
+- [1697.检查边长度限制的路径是否存在](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1697.检查边长度限制的路径是否存在.md)
 - [1722.执行交换操作后的最小汉明距离](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1722.执行交换操作后的最小汉明距离.md)
 - [面试题16.19.水域大小](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题16.19.水域大小.md)
 - [面试题17.07.婴儿名字](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题17.07.婴儿名字.md)
