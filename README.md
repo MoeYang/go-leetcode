@@ -42,6 +42,7 @@
 - [1011.在D天内送达包裹的能力](https://github.com/MoeYang/go-leetcode/blob/main/binary/1011.在D天内送达包裹的能力.md)
 - [1760.袋子里最少数目的球](https://github.com/MoeYang/go-leetcode/blob/main/binary/1760.袋子里最少数目的球.md)
 - [1818.绝对差值和](https://github.com/MoeYang/go-leetcode/blob/main/binary/1818.绝对差值和.md)
+- [1898.可移除字符的最大数目](https://github.com/MoeYang/go-leetcode/blob/main/binary/1898.可移除字符的最大数目.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
@@ -76,6 +77,7 @@
 - [516.最长回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/516.最长回文子序列.md)
 - [518.零钱兑换II](https://github.com/MoeYang/go-leetcode/blob/main/dp/518.零钱兑换II.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
+- [877.石子游戏](https://github.com/MoeYang/go-leetcode/blob/main/dp/877.石子游戏.md)
 - [1035.不相交的线](https://github.com/MoeYang/go-leetcode/blob/main/dp/1035.不相交的线.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
 - [1690.石子游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/dp/1690.石子游戏VII.md)
