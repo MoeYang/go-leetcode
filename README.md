@@ -106,6 +106,8 @@
 ### greedy
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [1685.有序数组中差绝对值之和](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1685.有序数组中差绝对值之和.md)
+- [1686.石子游戏VI](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1686.石子游戏VI.md)
 - [1689.十-二进制数的最少数目](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1689.十-二进制数的最少数目.md)
 - [1727.重新排列后的最大子矩阵](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1727.重新排列后的最大子矩阵.md)
 - [1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？.md)
