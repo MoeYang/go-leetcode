@@ -17,6 +17,7 @@
 - [1738.找出第K大的异或坐标值](https://github.com/MoeYang/go-leetcode/blob/main/array/1738.找出第K大的异或坐标值.md)
 - [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
+- [1906.查询差绝对值的最小值](https://github.com/MoeYang/go-leetcode/blob/main/array/1906.查询差绝对值的最小值.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
@@ -194,5 +195,7 @@
 ### union_find
 - [1697.检查边长度限制的路径是否存在](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1697.检查边长度限制的路径是否存在.md)
 - [1722.执行交换操作后的最小汉明距离](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1722.执行交换操作后的最小汉明距离.md)
+- [1905.统计子岛屿](https://github.com/MoeYang/go-leetcode/blob/main/union_find/1905.统计子岛屿.md)
+- [LCS03.主题空间](https://github.com/MoeYang/go-leetcode/blob/main/union_find/LCS03.主题空间.md)
 - [面试题16.19.水域大小](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题16.19.水域大小.md)
 - [面试题17.07.婴儿名字](https://github.com/MoeYang/go-leetcode/blob/main/union_find/面试题17.07.婴儿名字.md)
