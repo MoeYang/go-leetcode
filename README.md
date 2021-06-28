@@ -33,6 +33,7 @@
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
+- [752.打开转盘锁](https://github.com/MoeYang/go-leetcode/blob/main/bfs/752.打开转盘锁.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
 - [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
 - [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
@@ -57,6 +58,7 @@
 - [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
 - [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
+- [剑指Offer38.字符串的排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/剑指Offer38.字符串的排列.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
 - [面试题08.08.有重复字符串的排列组合](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.08.有重复字符串的排列组合.md)
 - [面试题08.09.括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.09.括号.md)
@@ -90,6 +92,7 @@
 - [1857.有向图中最大颜色值](https://github.com/MoeYang/go-leetcode/blob/main/dp/1857.有向图中最大颜色值.md)
 - [1866.恰有K根木棍可以看到的排列数目](https://github.com/MoeYang/go-leetcode/blob/main/dp/1866.恰有K根木棍可以看到的排列数目.md)
 - [1872.石子游戏VIII](https://github.com/MoeYang/go-leetcode/blob/main/dp/1872.石子游戏VIII.md)
+- [1911.最大子序列交替和](https://github.com/MoeYang/go-leetcode/blob/main/dp/1911.最大子序列交替和.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -139,6 +142,7 @@
 
 ### math
 - [137.只出现一次的数字II](https://github.com/MoeYang/go-leetcode/blob/main/math/137.只出现一次的数字II.md)
+- [149.直线上最多的点数](https://github.com/MoeYang/go-leetcode/blob/main/math/149.直线上最多的点数.md)
 - [523.连续的子数组和](https://github.com/MoeYang/go-leetcode/blob/main/math/523.连续的子数组和.md)
 - [1780.判断一个数字是否可以表示成三的幂的和](https://github.com/MoeYang/go-leetcode/blob/main/math/1780.判断一个数字是否可以表示成三的幂的和.md)
 - [1785.构成特定和需要添加的最少元素](https://github.com/MoeYang/go-leetcode/blob/main/math/1785.构成特定和需要添加的最少元素.md)
@@ -173,6 +177,7 @@
 - [1807.替换字符串中的括号内容](https://github.com/MoeYang/go-leetcode/blob/main/string/1807.替换字符串中的括号内容.md)
 - [1813.句子相似性III](https://github.com/MoeYang/go-leetcode/blob/main/string/1813.句子相似性III.md)
 - [1839.所有元音按顺序排布的最长子字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/1839.所有元音按顺序排布的最长子字符串.md)
+- [1915.最美子字符串的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1915.最美子字符串的数目.md)
 
 ### tree
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
