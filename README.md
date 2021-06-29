@@ -66,6 +66,7 @@
 - [面试题17.22.单词转换](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题17.22.单词转换.md)
 
 ### dp
+- [5.最长回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/5.最长回文子串.md)
 - [72.编辑距离](https://github.com/MoeYang/go-leetcode/blob/main/dp/72.编辑距离.md)
 - [91.解码方法](https://github.com/MoeYang/go-leetcode/blob/main/dp/91.解码方法.md)
 - [115.不同的子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/115.不同的子序列.md)
@@ -136,6 +137,7 @@
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
 ### list
+- [2.两数相加](https://github.com/MoeYang/go-leetcode/blob/main/list/2.两数相加.md)
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 - [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
@@ -154,6 +156,7 @@
 
 
 ### slide_window
+- [3.无重复字符的最长子串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/3.无重复字符的最长子串.md)
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
 - [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
