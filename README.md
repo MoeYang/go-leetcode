@@ -5,6 +5,7 @@
 
 ------------
 ### array
+- [15.三数之和](https://github.com/MoeYang/go-leetcode/blob/main/array/15.三数之和.md)
 - [31.下一个排列](https://github.com/MoeYang/go-leetcode/blob/main/array/31.下一个排列.md)
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/array/39.组合总和.md)
 - [80.删除有序数组中的重复项II](https://github.com/MoeYang/go-leetcode/blob/main/array/80.删除有序数组中的重复项II.md)
@@ -52,6 +53,8 @@
 - [面试题16.25.LRU缓存](https://github.com/MoeYang/go-leetcode/blob/main/design/面试题16.25.LRU缓存.md)
 
 ### dfs
+- [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/dfs/39.组合总和.md)
+- [46.全排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/46.全排列.md)
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
 - [1718.构建字典序最大的可行序列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1718.构建字典序最大的可行序列.md)
@@ -109,6 +112,7 @@
 - [312.戳气球](https://github.com/MoeYang/go-leetcode/blob/main/divide-and-conquer/312.戳气球.md)
 
 ### greedy
+- [11.盛最多水的容器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/11.盛最多水的容器.md)
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
 - [1685.有序数组中差绝对值之和](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1685.有序数组中差绝对值之和.md)
@@ -138,6 +142,8 @@
 
 ### list
 - [2.两数相加](https://github.com/MoeYang/go-leetcode/blob/main/list/2.两数相加.md)
+- [19.删除链表的倒数第N个结点](https://github.com/MoeYang/go-leetcode/blob/main/list/19.删除链表的倒数第N个结点.md)
+- [23.合并K个升序链表](https://github.com/MoeYang/go-leetcode/blob/main/list/23.合并K个升序链表.md)
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 - [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
@@ -162,6 +168,8 @@
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
 
 ### stack
+- [32.最长有效括号](https://github.com/MoeYang/go-leetcode/blob/main/stack/32.最长有效括号.md)
+- [42.接雨水](https://github.com/MoeYang/go-leetcode/blob/main/stack/42.接雨水.md)
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
