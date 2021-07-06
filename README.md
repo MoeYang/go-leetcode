@@ -8,6 +8,7 @@
 - [15.三数之和](https://github.com/MoeYang/go-leetcode/blob/main/array/15.三数之和.md)
 - [31.下一个排列](https://github.com/MoeYang/go-leetcode/blob/main/array/31.下一个排列.md)
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/array/39.组合总和.md)
+- [56.合并区间](https://github.com/MoeYang/go-leetcode/blob/main/array/56.合并区间.md)
 - [80.删除有序数组中的重复项II](https://github.com/MoeYang/go-leetcode/blob/main/array/80.删除有序数组中的重复项II.md)
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
@@ -70,6 +71,8 @@
 
 ### dp
 - [5.最长回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/5.最长回文子串.md)
+- [62.不同路径](https://github.com/MoeYang/go-leetcode/blob/main/dp/62.不同路径.md)
+- [64.最小路径和](https://github.com/MoeYang/go-leetcode/blob/main/dp/64.最小路径和.md)
 - [72.编辑距离](https://github.com/MoeYang/go-leetcode/blob/main/dp/72.编辑距离.md)
 - [91.解码方法](https://github.com/MoeYang/go-leetcode/blob/main/dp/91.解码方法.md)
 - [115.不同的子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/115.不同的子序列.md)
@@ -84,6 +87,7 @@
 - [516.最长回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/516.最长回文子序列.md)
 - [518.零钱兑换II](https://github.com/MoeYang/go-leetcode/blob/main/dp/518.零钱兑换II.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
+- [718.最长重复子数组](https://github.com/MoeYang/go-leetcode/blob/main/dp/718.最长重复子数组.md)
 - [877.石子游戏](https://github.com/MoeYang/go-leetcode/blob/main/dp/877.石子游戏.md)
 - [1035.不相交的线](https://github.com/MoeYang/go-leetcode/blob/main/dp/1035.不相交的线.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
@@ -163,6 +167,7 @@
 
 ### slide_window
 - [3.无重复字符的最长子串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/3.无重复字符的最长子串.md)
+- [76.最小覆盖子串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/76.最小覆盖子串.md)
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
 - [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
