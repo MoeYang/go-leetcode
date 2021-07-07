@@ -56,6 +56,8 @@
 ### dfs
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/dfs/39.组合总和.md)
 - [46.全排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/46.全排列.md)
+- [78.子集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/78.子集.md)
+- [79.单词搜索](https://github.com/MoeYang/go-leetcode/blob/main/dfs/79.单词搜索.md)
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
 - [1718.构建字典序最大的可行序列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1718.构建字典序最大的可行序列.md)
@@ -175,6 +177,7 @@
 ### stack
 - [32.最长有效括号](https://github.com/MoeYang/go-leetcode/blob/main/stack/32.最长有效括号.md)
 - [42.接雨水](https://github.com/MoeYang/go-leetcode/blob/main/stack/42.接雨水.md)
+- [84.柱状图中最大的矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/84.柱状图中最大的矩形.md)
 - [85.最大矩形](https://github.com/MoeYang/go-leetcode/blob/main/stack/85.最大矩形.md)
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
