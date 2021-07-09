@@ -13,6 +13,7 @@
 - [128.最长连续序列](https://github.com/MoeYang/go-leetcode/blob/main/array/128.最长连续序列.md)
 - [560.和为K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/560.和为K的子数组.md)
 - [581.最短无序连续子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/581.最短无序连续子数组.md)
+- [930.和相同的二元子数组](https://github.com/MoeYang/go-leetcode/blob/main/array/930.和相同的二元子数组.md)
 - [1695.删除子数组的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/array/1695.删除子数组的最大得分.md)
 - [1711.大餐计数](https://github.com/MoeYang/go-leetcode/blob/main/array/1711.大餐计数.md)
 - [1726.同积元组](https://github.com/MoeYang/go-leetcode/blob/main/array/1726.同积元组.md)
@@ -155,6 +156,7 @@
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
 
 ### math
+- [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/math/96.不同的二叉搜索树.md)
 - [137.只出现一次的数字II](https://github.com/MoeYang/go-leetcode/blob/main/math/137.只出现一次的数字II.md)
 - [149.直线上最多的点数](https://github.com/MoeYang/go-leetcode/blob/main/math/149.直线上最多的点数.md)
 - [523.连续的子数组和](https://github.com/MoeYang/go-leetcode/blob/main/math/523.连续的子数组和.md)
@@ -200,6 +202,10 @@
 
 ### tree
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
+- [98.验证二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/98.验证二叉搜索树.md)
+- [101.对称二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/101.对称二叉树.md)
+- [102.二叉树的层序遍历](https://github.com/MoeYang/go-leetcode/blob/main/tree/102.二叉树的层序遍历.md)
+- [105.从前序与中序遍历序列构造二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/105.从前序与中序遍历序列构造二叉树.md)
 - [208.实现Trie(前缀树)](https://github.com/MoeYang/go-leetcode/blob/main/tree/208.实现Trie(前缀树).md)
 - [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/tree/437.路径总和III.md)
 - [538.把二叉搜索树转换为累加树](https://github.com/MoeYang/go-leetcode/blob/main/tree/538.把二叉搜索树转换为累加树.md)
