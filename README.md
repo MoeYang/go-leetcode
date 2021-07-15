@@ -39,6 +39,8 @@
 - [752.打开转盘锁](https://github.com/MoeYang/go-leetcode/blob/main/bfs/752.打开转盘锁.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
 - [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
+- [1926.迷宫中离入口最近的出口](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1926.迷宫中离入口最近的出口.md)
+- [1928.规定时间内到达终点的最小花费](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1928.规定时间内到达终点的最小花费.md)
 - [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
 
 ### binary
@@ -79,6 +81,8 @@
 - [72.编辑距离](https://github.com/MoeYang/go-leetcode/blob/main/dp/72.编辑距离.md)
 - [91.解码方法](https://github.com/MoeYang/go-leetcode/blob/main/dp/91.解码方法.md)
 - [115.不同的子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/115.不同的子序列.md)
+- [121.买卖股票的最佳时机](https://github.com/MoeYang/go-leetcode/blob/main/dp/121.买卖股票的最佳时机.md)
+- [139.单词拆分](https://github.com/MoeYang/go-leetcode/blob/main/dp/139.单词拆分.md)
 - [213.打家劫舍II](https://github.com/MoeYang/go-leetcode/blob/main/dp/213.打家劫舍II.md)
 - [300.最长递增子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/300.最长递增子序列.md)
 - [309.最佳买卖股票时机含冷冻期](https://github.com/MoeYang/go-leetcode/blob/main/dp/309.最佳买卖股票时机含冷冻期.md)
@@ -137,9 +141,11 @@
 ### hash
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
 - [1743.从相邻元素对还原数组](https://github.com/MoeYang/go-leetcode/blob/main/hash/1743.从相邻元素对还原数组.md)
+- [1930.长度为3的不同回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/1930.长度为3的不同回文子序列.md)
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
 
 ### heap
+- [218.天际线问题](https://github.com/MoeYang/go-leetcode/blob/main/heap/218.天际线问题.md)
 - [1753.移除石子的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/heap/1753.移除石子的最大得分.md)
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
@@ -151,6 +157,7 @@
 - [2.两数相加](https://github.com/MoeYang/go-leetcode/blob/main/list/2.两数相加.md)
 - [19.删除链表的倒数第N个结点](https://github.com/MoeYang/go-leetcode/blob/main/list/19.删除链表的倒数第N个结点.md)
 - [23.合并K个升序链表](https://github.com/MoeYang/go-leetcode/blob/main/list/23.合并K个升序链表.md)
+- [148.排序链表](https://github.com/MoeYang/go-leetcode/blob/main/list/148.排序链表.md)
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 - [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
@@ -206,6 +213,8 @@
 - [101.对称二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/101.对称二叉树.md)
 - [102.二叉树的层序遍历](https://github.com/MoeYang/go-leetcode/blob/main/tree/102.二叉树的层序遍历.md)
 - [105.从前序与中序遍历序列构造二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/105.从前序与中序遍历序列构造二叉树.md)
+- [114.二叉树展开为链表](https://github.com/MoeYang/go-leetcode/blob/main/tree/114.二叉树展开为链表.md)
+- [124.二叉树中的最大路径和](https://github.com/MoeYang/go-leetcode/blob/main/tree/124.二叉树中的最大路径和.md)
 - [208.实现Trie(前缀树)](https://github.com/MoeYang/go-leetcode/blob/main/tree/208.实现Trie(前缀树).md)
 - [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/tree/437.路径总和III.md)
 - [538.把二叉搜索树转换为累加树](https://github.com/MoeYang/go-leetcode/blob/main/tree/538.把二叉搜索树转换为累加树.md)
