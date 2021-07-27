@@ -21,6 +21,7 @@
 - [1817.查找用户活跃分钟数](https://github.com/MoeYang/go-leetcode/blob/main/array/1817.查找用户活跃分钟数.md)
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
 - [1906.查询差绝对值的最小值](https://github.com/MoeYang/go-leetcode/blob/main/array/1906.查询差绝对值的最小值.md)
+- [1943.描述绘画结果](https://github.com/MoeYang/go-leetcode/blob/main/array/1943.描述绘画结果.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
@@ -36,6 +37,7 @@
 
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
+- [207.课程表](https://github.com/MoeYang/go-leetcode/blob/main/bfs/207.课程表.md)
 - [752.打开转盘锁](https://github.com/MoeYang/go-leetcode/blob/main/bfs/752.打开转盘锁.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
 - [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
@@ -83,7 +85,9 @@
 - [115.不同的子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/115.不同的子序列.md)
 - [121.买卖股票的最佳时机](https://github.com/MoeYang/go-leetcode/blob/main/dp/121.买卖股票的最佳时机.md)
 - [139.单词拆分](https://github.com/MoeYang/go-leetcode/blob/main/dp/139.单词拆分.md)
+- [152.乘积最大子数组](https://github.com/MoeYang/go-leetcode/blob/main/dp/152.乘积最大子数组.md)
 - [213.打家劫舍II](https://github.com/MoeYang/go-leetcode/blob/main/dp/213.打家劫舍II.md)
+- [221.最大正方形](https://github.com/MoeYang/go-leetcode/blob/main/dp/221.最大正方形.md)
 - [300.最长递增子序列](https://github.com/MoeYang/go-leetcode/blob/main/dp/300.最长递增子序列.md)
 - [309.最佳买卖股票时机含冷冻期](https://github.com/MoeYang/go-leetcode/blob/main/dp/309.最佳买卖股票时机含冷冻期.md)
 - [337.打家劫舍 III](https://github.com/MoeYang/go-leetcode/blob/main/dp/337.打家劫舍III.md)
@@ -108,6 +112,7 @@
 - [1866.恰有K根木棍可以看到的排列数目](https://github.com/MoeYang/go-leetcode/blob/main/dp/1866.恰有K根木棍可以看到的排列数目.md)
 - [1872.石子游戏VIII](https://github.com/MoeYang/go-leetcode/blob/main/dp/1872.石子游戏VIII.md)
 - [1911.最大子序列交替和](https://github.com/MoeYang/go-leetcode/blob/main/dp/1911.最大子序列交替和.md)
+- [1937.扣分后的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/dp/1937.扣分后的最大得分.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -136,6 +141,7 @@
 - [1833.雪糕的最大数量](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1833.雪糕的最大数量.md)
 - [1840.最高建筑高度](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1840.最高建筑高度.md)
 - [1855.下标对中的最大距离](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1855.下标对中的最大距离.md)
+- [1877.数组中最大数对和的最小值](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1877.数组中最大数对和的最小值.md)
 - [5760.构成交替字符串需要的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/5760.构成交替字符串需要的最小交换次数.md)
 
 ### hash
@@ -150,6 +156,7 @@
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
 - [1882.使用服务器处理任务](https://github.com/MoeYang/go-leetcode/blob/main/heap/1882.使用服务器处理任务.md)
+- [1942.最小未被占据椅子的编号](https://github.com/MoeYang/go-leetcode/blob/main/heap/1942.最小未被占据椅子的编号.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
@@ -193,6 +200,7 @@
 - [1717.删除子字符串的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/stack/1717.删除子字符串的最大得分.md)
 - [1793.好子数组的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/stack/1793.好子数组的最大分数.md)
 - [1856.子数组最小乘积的最大值](https://github.com/MoeYang/go-leetcode/blob/main/stack/1856.子数组最小乘积的最大值.md)
+- [1944.队列中可以看到的人数](https://github.com/MoeYang/go-leetcode/blob/main/stack/1944.队列中可以看到的人数.md)
 - [面试题16.26.计算器](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题16.26.计算器.md)
 - [面试题17.21.直方图的水量](https://github.com/MoeYang/go-leetcode/blob/main/stack/面试题17.21.直方图的水量.md)
 
