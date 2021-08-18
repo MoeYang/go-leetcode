@@ -22,6 +22,7 @@
 - [1823.找出游戏的获胜者](https://github.com/MoeYang/go-leetcode/blob/main/array/1823.找出游戏的获胜者.md)
 - [1906.查询差绝对值的最小值](https://github.com/MoeYang/go-leetcode/blob/main/array/1906.查询差绝对值的最小值.md)
 - [1943.描述绘画结果](https://github.com/MoeYang/go-leetcode/blob/main/array/1943.描述绘画结果.md)
+- [1968.构造元素不等于两相邻元素平均值的数组](https://github.com/MoeYang/go-leetcode/blob/main/array/1968.构造元素不等于两相邻元素平均值的数组.md)
 - [面试题10.09.排序矩阵查找](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.09.排序矩阵查找.md)
 - [面试题10.11.峰与谷](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题10.11.峰与谷.md)
 - [面试题16.06.最小差](https://github.com/MoeYang/go-leetcode/blob/main/array/面试题16.06.最小差.md)
@@ -65,9 +66,11 @@
 - [79.单词搜索](https://github.com/MoeYang/go-leetcode/blob/main/dfs/79.单词搜索.md)
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
+- [552.学生出勤记录II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/552.学生出勤记录II.md)
 - [1718.构建字典序最大的可行序列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1718.构建字典序最大的可行序列.md)
 - [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
 - [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
+- [1963.使字符串平衡的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1963.使字符串平衡的最小交换次数.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [剑指Offer38.字符串的排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/剑指Offer38.字符串的排列.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
@@ -157,6 +160,7 @@
 
 ### heap
 - [218.天际线问题](https://github.com/MoeYang/go-leetcode/blob/main/heap/218.天际线问题.md)
+- [313.超级丑数](https://github.com/MoeYang/go-leetcode/blob/main/heap/313.超级丑数.md)
 - [1753.移除石子的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/heap/1753.移除石子的最大得分.md)
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
