@@ -67,10 +67,12 @@
 - [90.子集II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/90.子集II.md)
 - [301.删除无效的括号](https://github.com/MoeYang/go-leetcode/blob/main/dfs/301.删除无效的括号.md)
 - [552.学生出勤记录II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/552.学生出勤记录II.md)
+- [797.所有可能的路径](https://github.com/MoeYang/go-leetcode/blob/main/dfs/797.所有可能的路径.md)
 - [1718.构建字典序最大的可行序列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1718.构建字典序最大的可行序列.md)
 - [1723.完成所有工作的最短时间](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1723.完成所有工作的最短时间.md)
 - [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
 - [1963.使字符串平衡的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1963.使字符串平衡的最小交换次数.md)
+- [1981.最小化目标值与所选元素的差](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1981.最小化目标值与所选元素的差.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [剑指Offer38.字符串的排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/剑指Offer38.字符串的排列.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
@@ -132,6 +134,7 @@
 
 ### graph
 - [743.网络延迟时间](https://github.com/MoeYang/go-leetcode/blob/main/graph/743.网络延迟时间.md)
+- [787.K站中转内最便宜的航班](https://github.com/MoeYang/go-leetcode/blob/main/graph/787.K站中转内最便宜的航班.md)
 - [802.找到最终的安全状态](https://github.com/MoeYang/go-leetcode/blob/main/graph/802.找到最终的安全状态.md)
 
 ### greedy
