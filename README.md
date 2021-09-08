@@ -164,12 +164,14 @@
 ### heap
 - [218.天际线问题](https://github.com/MoeYang/go-leetcode/blob/main/heap/218.天际线问题.md)
 - [313.超级丑数](https://github.com/MoeYang/go-leetcode/blob/main/heap/313.超级丑数.md)
+- [502.IPO](https://github.com/MoeYang/go-leetcode/blob/main/heap/502.IPO.md)
 - [1753.移除石子的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/heap/1753.移除石子的最大得分.md)
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
 - [1882.使用服务器处理任务](https://github.com/MoeYang/go-leetcode/blob/main/heap/1882.使用服务器处理任务.md)
 - [1942.最小未被占据椅子的编号](https://github.com/MoeYang/go-leetcode/blob/main/heap/1942.最小未被占据椅子的编号.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
+- [LCP30.魔塔游戏](https://github.com/MoeYang/go-leetcode/blob/main/heap/LCP30.魔塔游戏.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
 
 ### list
