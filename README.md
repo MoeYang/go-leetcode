@@ -73,6 +73,7 @@
 - [1774.最接近目标价格的甜点成本](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1774.最接近目标价格的甜点成本.md)
 - [1963.使字符串平衡的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1963.使字符串平衡的最小交换次数.md)
 - [1981.最小化目标值与所选元素的差](https://github.com/MoeYang/go-leetcode/blob/main/dfs/1981.最小化目标值与所选元素的差.md)
+- [2002.两个回文子序列长度的最大乘积](https://github.com/MoeYang/go-leetcode/blob/main/dfs/2002.两个回文子序列长度的最大乘积.md)
 - [5747.将字符串拆分为递减的连续值](https://github.com/MoeYang/go-leetcode/blob/main/dfs/5747.将字符串拆分为递减的连续值.md)
 - [剑指Offer38.字符串的排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/剑指Offer38.字符串的排列.md)
 - [面试题08.04.幂集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/面试题08.04.幂集.md)
@@ -179,6 +180,7 @@
 - [19.删除链表的倒数第N个结点](https://github.com/MoeYang/go-leetcode/blob/main/list/19.删除链表的倒数第N个结点.md)
 - [23.合并K个升序链表](https://github.com/MoeYang/go-leetcode/blob/main/list/23.合并K个升序链表.md)
 - [148.排序链表](https://github.com/MoeYang/go-leetcode/blob/main/list/148.排序链表.md)
+- [430.扁平化多级双向链表](https://github.com/MoeYang/go-leetcode/blob/main/list/430.扁平化多级双向链表.md)
 - [面试题02.06.回文链表](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.06.回文链表.md)
 - [面试题02.07.链表相交](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.07.链表相交.md)
 - [面试题02.08.环路检测](https://github.com/MoeYang/go-leetcode/blob/main/list/面试题02.08.环路检测.md)
@@ -203,6 +205,9 @@
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
 - [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
+
+### sorts
+- [1996.游戏中弱角色的数量](https://github.com/MoeYang/go-leetcode/blob/main/sorts/1996.游戏中弱角色的数量.md)
 
 ### stack
 - [32.最长有效括号](https://github.com/MoeYang/go-leetcode/blob/main/stack/32.最长有效括号.md)
