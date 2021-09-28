@@ -119,6 +119,7 @@
 - [1872.石子游戏VIII](https://github.com/MoeYang/go-leetcode/blob/main/dp/1872.石子游戏VIII.md)
 - [1911.最大子序列交替和](https://github.com/MoeYang/go-leetcode/blob/main/dp/1911.最大子序列交替和.md)
 - [1937.扣分后的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/dp/1937.扣分后的最大得分.md)
+- [2008.出租车的最大盈利](https://github.com/MoeYang/go-leetcode/blob/main/dp/2008.出租车的最大盈利.md)
 - [面试题08.02.迷路的机器人](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.02.迷路的机器人.md)
 - [面试题08.11.硬币](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.11.硬币.md)
 - [面试题08.13.堆箱子](https://github.com/MoeYang/go-leetcode/blob/main/dp/面试题08.13.堆箱子.md)
@@ -154,6 +155,7 @@
 - [1855.下标对中的最大距离](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1855.下标对中的最大距离.md)
 - [1877.数组中最大数对和的最小值](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1877.数组中最大数对和的最小值.md)
 - [1946.子字符串突变后可能得到的最大整数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1946.子字符串突变后可能得到的最大整数.md)
+- [2017.网格游戏](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2017.网格游戏.md)
 - [5760.构成交替字符串需要的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/5760.构成交替字符串需要的最小交换次数.md)
 
 ### hash
