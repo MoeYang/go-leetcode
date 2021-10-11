@@ -156,9 +156,11 @@
 - [1877.数组中最大数对和的最小值](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1877.数组中最大数对和的最小值.md)
 - [1946.子字符串突变后可能得到的最大整数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1946.子字符串突变后可能得到的最大整数.md)
 - [2017.网格游戏](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2017.网格游戏.md)
+- [2029.石子游戏IX](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2029.石子游戏IX.md)
 - [5760.构成交替字符串需要的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/5760.构成交替字符串需要的最小交换次数.md)
 
 ### hash
+- [187.重复的DNA序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/187.重复的DNA序列.md)
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
 - [1743.从相邻元素对还原数组](https://github.com/MoeYang/go-leetcode/blob/main/hash/1743.从相邻元素对还原数组.md)
 - [1930.长度为3的不同回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/1930.长度为3的不同回文子序列.md)
@@ -173,6 +175,7 @@
 - [1834.单线程CPU](https://github.com/MoeYang/go-leetcode/blob/main/heap/1834.单线程CPU.md)
 - [1882.使用服务器处理任务](https://github.com/MoeYang/go-leetcode/blob/main/heap/1882.使用服务器处理任务.md)
 - [1942.最小未被占据椅子的编号](https://github.com/MoeYang/go-leetcode/blob/main/heap/1942.最小未被占据椅子的编号.md)
+- [2034.股票价格波动](https://github.com/MoeYang/go-leetcode/blob/main/heap/2034.股票价格波动.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [LCP30.魔塔游戏](https://github.com/MoeYang/go-leetcode/blob/main/heap/LCP30.魔塔游戏.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
