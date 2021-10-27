@@ -216,6 +216,7 @@
 
 ### sorts
 - [1996.游戏中弱角色的数量](https://github.com/MoeYang/go-leetcode/blob/main/sorts/1996.游戏中弱角色的数量.md)
+- [2050.并行课程III](https://github.com/MoeYang/go-leetcode/blob/main/sorts/2050.并行课程III.md)
 
 ### stack
 - [32.最长有效括号](https://github.com/MoeYang/go-leetcode/blob/main/stack/32.最长有效括号.md)
