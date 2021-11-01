@@ -54,6 +54,7 @@
 - [1760.袋子里最少数目的球](https://github.com/MoeYang/go-leetcode/blob/main/binary/1760.袋子里最少数目的球.md)
 - [1818.绝对差值和](https://github.com/MoeYang/go-leetcode/blob/main/binary/1818.绝对差值和.md)
 - [1898.可移除字符的最大数目](https://github.com/MoeYang/go-leetcode/blob/main/binary/1898.可移除字符的最大数目.md)
+- [2055.蜡烛之间的盘子](https://github.com/MoeYang/go-leetcode/blob/main/binary/2055.蜡烛之间的盘子.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
@@ -217,6 +218,7 @@
 ### sorts
 - [1996.游戏中弱角色的数量](https://github.com/MoeYang/go-leetcode/blob/main/sorts/1996.游戏中弱角色的数量.md)
 - [2050.并行课程III](https://github.com/MoeYang/go-leetcode/blob/main/sorts/2050.并行课程III.md)
+- [2054.两个最好的不重叠活动](https://github.com/MoeYang/go-leetcode/blob/main/sorts/2054.两个最好的不重叠活动.md)
 
 ### stack
 - [32.最长有效括号](https://github.com/MoeYang/go-leetcode/blob/main/stack/32.最长有效括号.md)
