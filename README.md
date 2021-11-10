@@ -45,6 +45,7 @@
 - [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
 - [1926.迷宫中离入口最近的出口](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1926.迷宫中离入口最近的出口.md)
 - [1928.规定时间内到达终点的最小花费](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1928.规定时间内到达终点的最小花费.md)
+- [2059.转化数字的最小运算数](https://github.com/MoeYang/go-leetcode/blob/main/bfs/2059.转化数字的最小运算数.md)
 - [面试题04.01.节点间通路](https://github.com/MoeYang/go-leetcode/blob/main/bfs/面试题04.01.节点间通路.md)
 
 ### binary
@@ -165,6 +166,7 @@
 ### hash
 - [187.重复的DNA序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/187.重复的DNA序列.md)
 - [554.砖墙](https://github.com/MoeYang/go-leetcode/blob/main/hash/554.砖墙.md)
+- [1218.最长定差子序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/1218.最长定差子序列.md)
 - [1743.从相邻元素对还原数组](https://github.com/MoeYang/go-leetcode/blob/main/hash/1743.从相邻元素对还原数组.md)
 - [1930.长度为3的不同回文子序列](https://github.com/MoeYang/go-leetcode/blob/main/hash/1930.长度为3的不同回文子序列.md)
 - [面试题17.26.稀疏相似度](https://github.com/MoeYang/go-leetcode/blob/main/hash/面试题17.26.稀疏相似度.md)
@@ -179,6 +181,7 @@
 - [1882.使用服务器处理任务](https://github.com/MoeYang/go-leetcode/blob/main/heap/1882.使用服务器处理任务.md)
 - [1942.最小未被占据椅子的编号](https://github.com/MoeYang/go-leetcode/blob/main/heap/1942.最小未被占据椅子的编号.md)
 - [2034.股票价格波动](https://github.com/MoeYang/go-leetcode/blob/main/heap/2034.股票价格波动.md)
+- [2064.分配给商店的最多商品的最小值](https://github.com/MoeYang/go-leetcode/blob/main/heap/2064.分配给商店的最多商品的最小值.md)
 - [5748.包含每个查询的最小区间](https://github.com/MoeYang/go-leetcode/blob/main/heap/5748.包含每个查询的最小区间.md)
 - [LCP30.魔塔游戏](https://github.com/MoeYang/go-leetcode/blob/main/heap/LCP30.魔塔游戏.md)
 - [面试题17.20.连续中值](https://github.com/MoeYang/go-leetcode/blob/main/heap/面试题17.20.连续中值.md)
