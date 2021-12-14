@@ -149,6 +149,7 @@
 - [11.盛最多水的容器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/11.盛最多水的容器.md)
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
+- [630.课程表III](https://github.com/MoeYang/go-leetcode/blob/main/greedy/630.课程表III.md)
 - [1685.有序数组中差绝对值之和](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1685.有序数组中差绝对值之和.md)
 - [1686.石子游戏VI](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1686.石子游戏VI.md)
 - [1689.十-二进制数的最少数目](https://github.com/MoeYang/go-leetcode/blob/main/greedy/1689.十-二进制数的最少数目.md)
