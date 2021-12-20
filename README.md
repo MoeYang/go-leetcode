@@ -51,6 +51,7 @@
 ### binary
 - [33.搜索旋转排序数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/33.搜索旋转排序数组.md)
 - [153.寻找旋转排序数组中的最小值](https://github.com/MoeYang/go-leetcode/blob/main/binary/153.寻找旋转排序数组中的最小值.md)
+- [475.供暖器](https://github.com/MoeYang/go-leetcode/blob/main/binary/475.供暖器.md)
 - [1011.在D天内送达包裹的能力](https://github.com/MoeYang/go-leetcode/blob/main/binary/1011.在D天内送达包裹的能力.md)
 - [1760.袋子里最少数目的球](https://github.com/MoeYang/go-leetcode/blob/main/binary/1760.袋子里最少数目的球.md)
 - [1818.绝对差值和](https://github.com/MoeYang/go-leetcode/blob/main/binary/1818.绝对差值和.md)
