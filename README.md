@@ -167,6 +167,7 @@
 - [2017.网格游戏](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2017.网格游戏.md)
 - [2029.石子游戏IX](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2029.石子游戏IX.md)
 - [2086.从房屋收集雨水需要的最少水桶数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2086.从房屋收集雨水需要的最少水桶数.md)
+- [2116.判断一个括号字符串是否有效](https://github.com/MoeYang/go-leetcode/blob/main/greedy/2116.判断一个括号字符串是否有效.md)
 - [5760.构成交替字符串需要的最小交换次数](https://github.com/MoeYang/go-leetcode/blob/main/greedy/5760.构成交替字符串需要的最小交换次数.md)
 
 ### hash
