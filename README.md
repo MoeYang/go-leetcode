@@ -223,6 +223,7 @@
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
 - [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
+- [2134.最少交换次数来组合所有的1II](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/2134.最少交换次数来组合所有的1II.md)
 - [5873.考试的最大困扰度](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/5873.考试的最大困扰度.md)
 
 ### sorts
