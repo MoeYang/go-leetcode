@@ -62,6 +62,7 @@
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
+- [355.设计推特](https://github.com/MoeYang/go-leetcode/blob/main/design/355.设计推特.md)
 - [1865.找出和为指定值的下标对](https://github.com/MoeYang/go-leetcode/blob/main/design/1865.找出和为指定值的下标对.md)
 - [面试题16.25.LRU缓存](https://github.com/MoeYang/go-leetcode/blob/main/design/面试题16.25.LRU缓存.md)
 
