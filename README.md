@@ -149,6 +149,7 @@
 
 ### greedy
 - [11.盛最多水的容器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/11.盛最多水的容器.md)
+- [334.递增的三元子序列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/334.递增的三元子序列.md)
 - [406.根据身高重建队列](https://github.com/MoeYang/go-leetcode/blob/main/greedy/406.根据身高重建队列.md)
 - [621.任务调度器](https://github.com/MoeYang/go-leetcode/blob/main/greedy/621.任务调度器.md)
 - [630.课程表III](https://github.com/MoeYang/go-leetcode/blob/main/greedy/630.课程表III.md)
