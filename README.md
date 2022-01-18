@@ -68,6 +68,7 @@
 
 ### dfs
 - [39.组合总和](https://github.com/MoeYang/go-leetcode/blob/main/dfs/39.组合总和.md)
+- [40.组合总和II](https://github.com/MoeYang/go-leetcode/blob/main/dfs/40.组合总和II.md)
 - [46.全排列](https://github.com/MoeYang/go-leetcode/blob/main/dfs/46.全排列.md)
 - [78.子集](https://github.com/MoeYang/go-leetcode/blob/main/dfs/78.子集.md)
 - [79.单词搜索](https://github.com/MoeYang/go-leetcode/blob/main/dfs/79.单词搜索.md)
@@ -183,6 +184,7 @@
 ### heap
 - [218.天际线问题](https://github.com/MoeYang/go-leetcode/blob/main/heap/218.天际线问题.md)
 - [313.超级丑数](https://github.com/MoeYang/go-leetcode/blob/main/heap/313.超级丑数.md)
+- [373.查找和最小的K对数字](https://github.com/MoeYang/go-leetcode/blob/main/heap/373.查找和最小的K对数字.md)
 - [502.IPO](https://github.com/MoeYang/go-leetcode/blob/main/heap/502.IPO.md)
 - [1753.移除石子的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/heap/1753.移除石子的最大得分.md)
 - [1801.积压订单中的订单总数](https://github.com/MoeYang/go-leetcode/blob/main/heap/1801.积压订单中的订单总数.md)
@@ -223,6 +225,7 @@
 - [3.无重复字符的最长子串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/3.无重复字符的最长子串.md)
 - [76.最小覆盖子串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/76.最小覆盖子串.md)
 - [438.找到字符串中所有字母异位词](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/438.找到字符串中所有字母异位词.md)
+- [713.乘积小于K的子数组](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/713.乘积小于K的子数组.md)
 - [面试题17.18.最短超串](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/面试题17.18.最短超串.md)
 - [1838.最高频元素的频数](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/1838.最高频元素的频数.md)
 - [2134.最少交换次数来组合所有的1II](https://github.com/MoeYang/go-leetcode/blob/main/slide_window/2134.最少交换次数来组合所有的1II.md)
