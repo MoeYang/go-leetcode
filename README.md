@@ -41,6 +41,7 @@
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
 - [207.课程表](https://github.com/MoeYang/go-leetcode/blob/main/bfs/207.课程表.md)
 - [752.打开转盘锁](https://github.com/MoeYang/go-leetcode/blob/main/bfs/752.打开转盘锁.md)
+- [1345.跳跃游戏IV](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1345.跳跃游戏IV.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
 - [1871.跳跃游戏VII](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1871.跳跃游戏VII.md)
 - [1926.迷宫中离入口最近的出口](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1926.迷宫中离入口最近的出口.md)
@@ -63,6 +64,7 @@
 
 ### design
 - [355.设计推特](https://github.com/MoeYang/go-leetcode/blob/main/design/355.设计推特.md)
+- [380.O(1)时间插入、删除和获取随机元素](https://github.com/MoeYang/go-leetcode/blob/main/design/380.O(1)时间插入、删除和获取随机元素.md)
 - [1865.找出和为指定值的下标对](https://github.com/MoeYang/go-leetcode/blob/main/design/1865.找出和为指定值的下标对.md)
 - [面试题16.25.LRU缓存](https://github.com/MoeYang/go-leetcode/blob/main/design/面试题16.25.LRU缓存.md)
 
