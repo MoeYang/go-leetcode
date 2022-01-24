@@ -117,6 +117,7 @@
 - [518.零钱兑换II](https://github.com/MoeYang/go-leetcode/blob/main/dp/518.零钱兑换II.md)
 - [647.回文子串](https://github.com/MoeYang/go-leetcode/blob/main/dp/647.回文子串.md)
 - [718.最长重复子数组](https://github.com/MoeYang/go-leetcode/blob/main/dp/718.最长重复子数组.md)
+- [873.最长的斐波那契子序列的长度](https://github.com/MoeYang/go-leetcode/blob/main/dp/873.最长的斐波那契子序列的长度.md)
 - [877.石子游戏](https://github.com/MoeYang/go-leetcode/blob/main/dp/877.石子游戏.md)
 - [1035.不相交的线](https://github.com/MoeYang/go-leetcode/blob/main/dp/1035.不相交的线.md)
 - [1269.停在原地的方案数](https://github.com/MoeYang/go-leetcode/blob/main/dp/1269.停在原地的方案数.md)
@@ -257,6 +258,7 @@
 ### string
 - [28.实现strStr()](https://github.com/MoeYang/go-leetcode/blob/main/string/28.实现strStr().md)
 - [844.比较含退格的字符串](https://github.com/MoeYang/go-leetcode/blob/main/string/844.比较含退格的字符串.md)
+- [926.将字符串翻转到单调递增](https://github.com/MoeYang/go-leetcode/blob/main/string/926.将字符串翻转到单调递增.md)
 - [1759.统计同构子字符串的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1759.统计同构子字符串的数目.md)
 - [1790.仅执行一次字符串交换能否使两个字符串相等](https://github.com/MoeYang/go-leetcode/blob/main/string/1790.仅执行一次字符串交换能否使两个字符串相等.md)
 - [1805.字符串中不同整数的数目](https://github.com/MoeYang/go-leetcode/blob/main/string/1805.字符串中不同整数的数目.md)
