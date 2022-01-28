@@ -40,6 +40,7 @@
 ### bfs
 - [127.单词接龙](https://github.com/MoeYang/go-leetcode/blob/main/bfs/127.单词接龙.md)
 - [207.课程表](https://github.com/MoeYang/go-leetcode/blob/main/bfs/207.课程表.md)
+- [542.01矩阵](https://github.com/MoeYang/go-leetcode/blob/main/bfs/542.01矩阵.md)
 - [752.打开转盘锁](https://github.com/MoeYang/go-leetcode/blob/main/bfs/752.打开转盘锁.md)
 - [1345.跳跃游戏IV](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1345.跳跃游戏IV.md)
 - [1765.地图中的最高点](https://github.com/MoeYang/go-leetcode/blob/main/bfs/1765.地图中的最高点.md)
