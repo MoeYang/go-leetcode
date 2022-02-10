@@ -287,6 +287,7 @@
 - [863.二叉树中所有距离为K的结点](https://github.com/MoeYang/go-leetcode/blob/main/tree/863.二叉树中所有距离为K的结点.md)
 - [919.完全二叉树插入器](https://github.com/MoeYang/go-leetcode/blob/main/tree/919.完全二叉树插入器.md)
 - [993.二叉树的堂兄弟节点](https://github.com/MoeYang/go-leetcode/blob/main/tree/993.二叉树的堂兄弟节点.md)
+- [剑指OfferII067.最大的异或](https://github.com/MoeYang/go-leetcode/blob/main/tree/剑指OfferII067.最大的异或.md)
 - [面试题04.05.合法二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.05.合法二叉搜索树.md)
 - [面试题04.06.后继者](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.06.后继者.md)
 - [面试题04.08.首个共同祖先](https://github.com/MoeYang/go-leetcode/blob/main/tree/面试题04.08.首个共同祖先.md)
