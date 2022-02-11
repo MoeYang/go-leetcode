@@ -61,6 +61,7 @@
 - [1898.可移除字符的最大数目](https://github.com/MoeYang/go-leetcode/blob/main/binary/1898.可移除字符的最大数目.md)
 - [2055.蜡烛之间的盘子](https://github.com/MoeYang/go-leetcode/blob/main/binary/2055.蜡烛之间的盘子.md)
 - [2080.区间内查询数字的频率](https://github.com/MoeYang/go-leetcode/blob/main/binary/2080.区间内查询数字的频率.md)
+- [剑指OfferII072.求平方根](https://github.com/MoeYang/go-leetcode/blob/main/binary/剑指OfferII072.求平方根.md)
 - [面试题10.03.搜索旋转数组](https://github.com/MoeYang/go-leetcode/blob/main/binary/面试题10.03.搜索旋转数组.md)
 
 ### design
