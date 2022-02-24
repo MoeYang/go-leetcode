@@ -283,6 +283,7 @@
 - [114.二叉树展开为链表](https://github.com/MoeYang/go-leetcode/blob/main/tree/114.二叉树展开为链表.md)
 - [124.二叉树中的最大路径和](https://github.com/MoeYang/go-leetcode/blob/main/tree/124.二叉树中的最大路径和.md)
 - [208.实现Trie(前缀树)](https://github.com/MoeYang/go-leetcode/blob/main/tree/208.实现Trie(前缀树).md)
+- [297.二叉树的序列化与反序列化](https://github.com/MoeYang/go-leetcode/blob/main/tree/297.二叉树的序列化与反序列化.md)
 - [437. 路径总和 III](https://github.com/MoeYang/go-leetcode/blob/main/tree/437.路径总和III.md)
 - [538.把二叉搜索树转换为累加树](https://github.com/MoeYang/go-leetcode/blob/main/tree/538.把二叉搜索树转换为累加树.md)
 - [783.二叉搜索树节点最小距离](https://github.com/MoeYang/go-leetcode/blob/main/tree/783.二叉搜索树节点最小距离.md)
