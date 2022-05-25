@@ -255,6 +255,7 @@
 - [456.132模式](https://github.com/MoeYang/go-leetcode/blob/main/stack/456.132模式.md)
 - [496.下一个更大元素I](https://github.com/MoeYang/go-leetcode/blob/main/stack/496.下一个更大元素I.md)
 - [739.每日温度](https://github.com/MoeYang/go-leetcode/blob/main/stack/739.每日温度.md)
+- [907.子数组的最小值之和](https://github.com/MoeYang/go-leetcode/blob/main/stack/907.子数组的最小值之和.md)
 - [1717.删除子字符串的最大得分](https://github.com/MoeYang/go-leetcode/blob/main/stack/1717.删除子字符串的最大得分.md)
 - [1793.好子数组的最大分数](https://github.com/MoeYang/go-leetcode/blob/main/stack/1793.好子数组的最大分数.md)
 - [1856.子数组最小乘积的最大值](https://github.com/MoeYang/go-leetcode/blob/main/stack/1856.子数组最小乘积的最大值.md)
@@ -277,6 +278,7 @@
 ### tree
 - [96.不同的二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/96.不同的二叉搜索树.md)
 - [98.验证二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/98.验证二叉搜索树.md)
+- [99.恢复二叉搜索树](https://github.com/MoeYang/go-leetcode/blob/main/tree/99.恢复二叉搜索树.md)
 - [101.对称二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/101.对称二叉树.md)
 - [102.二叉树的层序遍历](https://github.com/MoeYang/go-leetcode/blob/main/tree/102.二叉树的层序遍历.md)
 - [105.从前序与中序遍历序列构造二叉树](https://github.com/MoeYang/go-leetcode/blob/main/tree/105.从前序与中序遍历序列构造二叉树.md)
